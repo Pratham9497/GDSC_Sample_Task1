@@ -1,0 +1,11 @@
+@media (max-width: 450px) {
+    #header{
+        font-size: 25px;
+    }
+}
+
+@media (min-width: 450px) {
+    #header{
+        font-size: 32px;
+    }
+}

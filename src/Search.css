@@ -1,0 +1,32 @@
+@media (max-width: 450px) {
+    #search {
+        width: 150px;
+        height: 30px;
+    }
+}
+
+@media (min-width: 450px) {
+    #search {
+        width: 250px;
+        height: 35px;
+    }
+}
+
+@media (min-width: 600px) {
+    #search {
+        width: 300px;
+        height: 40px;
+    }
+}
+
+#search {
+    margin-top: 10px;
+    margin-bottom: 40px;
+    padding: 4px 10px;
+    border-radius: 20px;
+}
+
+#btn-search {
+    margin-left: 15px;
+    margin-bottom: 3px;
+}
